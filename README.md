@@ -2,9 +2,8 @@
 
 # Sivasanker N P
 
-**Software Engineer → AI/ML Engineer**
+*MS CS (AI) @ Arizona State University · Ex-Senior SWE @ Wipro · Open to ML/AI Engineering roles*
 
-*Building systems that scale. Training models that matter.*
 
 <br/>
 
@@ -20,21 +19,16 @@
 
 <br/>
 
----
 
 ### 🔥 Streak
 
 <img src="https://streak-stats.demolab.com?user=DevelopedBy-Siva&theme=highcontrast&hide_border=true&border_radius=10&card_width=700" alt="GitHub Streak" />
 
----
 
 ### 📊 Stats & Languages
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevelopedBy-Siva&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopedBy-Siva&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 
----
-
-*MS CS (AI) @ Arizona State University · Ex-Senior SWE @ Wipro · Open to ML/AI Engineering roles*
 
 </div>
