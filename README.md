@@ -17,11 +17,13 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <img src="assets/wallpaper.png" alt="Wallpaper" width="835">
 </div>
 
+<br/>
 <br/>
 
 <p align="center">
