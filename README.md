@@ -1,8 +1,7 @@
 <div align="center">
 
-# Sivasanker N P
-
-*MS CS (AI) @ Arizona State University · Ex-Senior SWE @ Wipro · Open to ML/AI Engineering roles*
+# 𝙃𝙞 👋 𝙄'𝙢 𝙎𝙞𝙫𝙖𝙨𝙖𝙣𝙠𝙚𝙧
+### 𝘼𝙄 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 𝙞𝙣 𝙩𝙝𝙚 𝙢𝙖𝙠𝙞𝙣𝙜 | 𝙈𝙎 𝘾𝙎 @ 𝘼𝙎𝙐 | 𝙀𝙭-𝙎𝙚𝙣𝙞𝙤𝙧 𝙎𝙒𝙀 @ 𝙒𝙞𝙥𝙧𝙤
 
 
 <br/>
@@ -19,16 +18,16 @@
 
 <br/>
 
+<div align="center">
+  <img src="wall.png" alt="Wallpaper" width="835">
+</div>
 
-### 🔥 Streak
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=DevelopedBy-Siva&theme=highcontrast&hide_border=true&border_radius=10&card_width=700" alt="GitHub Streak" />
-
-
-### 📊 Stats & Languages
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevelopedBy-Siva&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopedBy-Siva&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevelopedBy-Siva&theme=highcontrast&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopedBy-Siva&layout=compact&theme=highcontrast&hide_border=true" height="170"/>
+</p>
 
 
 </div>
