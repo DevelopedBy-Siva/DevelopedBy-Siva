@@ -2,7 +2,7 @@
 
 # 𝙃𝙞 👋 𝙄'𝙢 𝙎𝙞𝙫𝙖𝙨𝙖𝙣𝙠𝙚𝙧
 
-### 𝘼𝙄 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 𝙞𝙣 𝙩𝙝𝙚 𝙢𝙖𝙠𝙞𝙣𝙜 | 𝙈𝙎 𝘾𝙎 @ 𝘼𝙎𝙐 | 𝙀𝙭-𝙎𝙚𝙣𝙞𝙤𝙧 𝙎𝙒𝙀 @ 𝙒𝙞𝙥𝙧𝙤
+### 𝘼𝙄/ML 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 𝙞𝙣 𝙩𝙝𝙚 𝙢𝙖𝙠𝙞𝙣𝙜 | 𝙈𝙎 𝘾𝙎 @ 𝘼𝙎𝙐 | 𝙀𝙭-𝙎𝙚𝙣𝙞𝙤𝙧 𝙎𝙒𝙀 @ 𝙒𝙞𝙥𝙧𝙤
 
 <br/>
 
@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,pytorch,sklearn,opencv,react,fastapi,flask,spring,nodejs,docker,kubernetes,aws,azure,postgres,mongodb,redis,git,github,linux,bash,postman,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,pytorch,sklearn,opencv,react,fastapi,flask,spring,nodejs,docker,kubernetes,aws,azure,postgres,mongodb,redis,git,github,linux,bash,postman,figma,vscode" />
 </div>
 
 <br/>
