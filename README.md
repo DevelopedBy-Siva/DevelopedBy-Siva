@@ -1,34 +1,47 @@
-<div align="center">
+<h2>Hey 👋, I'm <a href="https://sivasanker.com">Siva</a></h2>
 
-# 𝙃𝙞 👋 𝙄'𝙢 𝙎𝙞𝙫𝙖𝙨𝙖𝙣𝙠𝙚𝙧
+<p>I'm a software engineer with 4+ years of experience breaking (and occasionally fixing) production systems. Right now, I'm building AI/ML systems, trying to keep life balanced, and constantly finding new places to explore.</p>
 
-### AI & Full-Stack Engineer | 𝙈𝙎 𝘾𝙎 @ 𝘼𝙎𝙐
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/sivasanker.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.sivasanker.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasanker-np)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.sivasanker@gmail.com)
-
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,pytorch,sklearn,opencv,react,fastapi,flask,spring,nodejs,docker,kubernetes,aws,azure,postgres,mongodb,redis,git,github,linux,bash,postman,figma,vscode" />
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="assets/wallpaper.png" alt="Wallpaper" width="835">
-</div>
-
-<br/>
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevelopedBy-Siva&theme=highcontrast&hide_border=true&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopedBy-Siva&layout=compact&theme=highcontrast&hide_border=true" height="170"/>
+<p>
+  <a href="https://sivasanker.com">
+    <img src="https://img.shields.io/badge/🌐_sivasanker.com-4E69C8?style=flat-square" alt="Website Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/sivasanker-np/">
+    <img src="https://img.shields.io/badge/-@sivasanker--np-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:its.sivasanker@gmail.com">
+    <img src="https://img.shields.io/badge/-its.sivasanker@gmail.com-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
 </p>
+<p>☕ Probably debugging something.</p>
+</br>
+<h2>⚡️ A Few Quick Facts</h2>
 
-</div>
+- 🔭 I'm currently focused on **learning about distributed systems, AI/ML, and building systems around LLMs**.
+- 👨‍💻 Most of my projects are available on **<a href="https://www.sivasanker.com/projects/">portfolio</a>**.
+- 💬 Ping me about **AI/ML, distributed systems, or backend engineering**.
+- 📙 Check out my <a href="https://sivasanker.com/resume.pdf">resume</a>.
+
+<br clear="right"/>
+
+<h2>🚀 Core Stack</h2>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="35" height="35" />
+</p>
