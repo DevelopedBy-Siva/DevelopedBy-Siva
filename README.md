@@ -1,12 +1,12 @@
-<h2>Hey 👋, I'm <a href="https://sivasanker.com">Siva</a></h2>
+<h2>Hey 👋, I'm <a href="https://sivasanker.com" target="_blank">Siva</a></h2>
 
 <p>I'm a software engineer with 4+ years of experience breaking (and occasionally fixing) production systems. Right now, I'm building AI/ML systems, trying to keep life balanced, and constantly finding new places to explore.</p>
 
 <p>
-  <a href="https://sivasanker.com">
+  <a href="https://sivasanker.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_sivasanker.com-4E69C8?style=flat-square" alt="Website Badge">
   </a>
-  <a href="https://www.linkedin.com/in/sivasanker-np/">
+  <a href="https://www.linkedin.com/in/sivasanker-np/" target="_blank">
     <img src="https://img.shields.io/badge/-@sivasanker--np-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge">
   </a>
   <a href="mailto:its.sivasanker@gmail.com">
@@ -18,9 +18,9 @@
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I'm currently focused on **learning about distributed systems, AI/ML, and building systems around LLMs**.
-- 👨‍💻 Most of my projects are available on **<a href="https://www.sivasanker.com/projects/">portfolio</a>**.
+- 👨‍💻 Most of my projects are available on **<a href="https://www.sivasanker.com/projects/" target="_blank">portfolio</a>**.
 - 💬 Ping me about **AI/ML, distributed systems, or backend engineering**.
-- 📙 Check out my <a href="https://sivasanker.com/resume.pdf">resume</a>.
+- 📙 Check out my <a href="https://sivasanker.com/resume.pdf" target="_blank">resume</a>.
 
 <br clear="right"/>
 
