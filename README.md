@@ -20,7 +20,6 @@
 - 🔭 I'm currently focused on **learning about distributed systems, AI/ML, and building systems around LLMs**.
 - 👨‍💻 Most of my projects are available on <a href="https://www.sivasanker.com/projects/" target="_blank">portfolio</a>.
 - 💬 Ping me about **AI/ML, distributed systems, or backend engineering**.
-- 📙 Check out my <a href="https://sivasanker.com/resume.pdf" target="_blank">resume</a>.
 
 <br clear="right"/>
 
